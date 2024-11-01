@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: blue;
+  text-align: center
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  width: 60px;
+}
+li, a {
+
+
+  font-family: Times Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: lightgrey;
+  float: left;
+  display: block;
+  padding:10px 2px;
+  text-decoration: bisque;
+  font-size: 115%;
+  
+}
+li a:hover{
+  background-color: #111
+}
+
+h2, h1 {
+  font-family: Arial;
+  text-align: center;
+  color: grey;
+}
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background: blue;
+}
+img {
+  margin-left: 37.5%;
+  margin-right: 0%;
+  
+  size: 100%;
+  width: 20%;
+  
+}
+html2, corpse {
+  background: teal;
+}
